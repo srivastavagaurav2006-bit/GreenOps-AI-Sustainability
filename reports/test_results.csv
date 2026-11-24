@@ -1,0 +1,2 @@
+test_cases,correct,accuracy_pct,precision_pct,recall_pct,f1_pct,true_positives,true_negatives,false_positives,false_negatives,mean_latency_ms,p95_latency_ms,cost_per_request_inr,cost_note,evaluation_note
+60,60,100.0,100.0,100.0,100.0,48,12,0,0,6.036,7.231,0.0,"Local deterministic inference; excludes hardware, electricity, development and hosting costs.",Synthetic scenario benchmark against the GreenOpsDetector; not independent production validation.

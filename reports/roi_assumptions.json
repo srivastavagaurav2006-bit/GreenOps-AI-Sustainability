@@ -1,0 +1,10 @@
+{
+  "annual_invoice_spend_inr": 18000000,
+  "duplicate_payment_prevention_rate": 0.012,
+  "annual_review_hours_saved": 520,
+  "loaded_hourly_cost_inr": 350,
+  "annual_tool_and_maintenance_cost_inr": 90000,
+  "estimated_annual_benefit_inr": 398000,
+  "estimated_net_annual_benefit_inr": 308000,
+  "payback_months": 2.71
+}

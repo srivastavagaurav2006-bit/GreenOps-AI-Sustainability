@@ -1,0 +1,9 @@
+AI opportunity,Business value,Value (1-5),Feasibility (1-5),Data readiness (1-5),Risk (1-5; lower is better),Impact-effort placement
+Consumption anomaly detection,Detect unusual energy/water/fuel patterns,5,4,4,2,High impact / medium effort
+Invoice duplicate detection,Prevent duplicate utility payments,5,5,5,1,High impact / low effort
+Generator log completeness,Flag missing diesel run-hour/fuel logs,4,5,3,2,High impact / medium effort
+Carbon emissions forecasting,Forecast site-level Scope 1/2 emissions,4,3,3,3,Medium-high impact / medium effort
+Predictive maintenance,Predict equipment failure from telemetry,5,2,2,4,High impact / high effort
+BRSR narrative assistant,Draft evidence-linked sustainability disclosures,4,3,2,4,Medium-high impact / high effort
+Water leak detection,Identify abnormal water consumption,4,4,4,2,High impact / medium effort
+Renewable generation forecasting,Forecast solar/wind generation,5,3,3,3,High impact / medium effort
